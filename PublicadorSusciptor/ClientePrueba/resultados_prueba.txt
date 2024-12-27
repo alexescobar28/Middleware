@@ -1,0 +1,24 @@
+
+=== Resultados de la Prueba ===
+Número de clientes: 5 publicadores y 5 suscriptores
+Mensajes enviados: 55
+Mensajes recibidos: 50
+Conexiones fallidas: 0
+Latencia promedio: 0ms
+Duración de la prueba: 30 segundos
+
+=== Resultados de la Prueba ===
+Número de clientes: 20 publicadores y 20 suscriptores
+Mensajes enviados: 64
+Mensajes recibidos: 47
+Conexiones fallidas: 0
+Latencia promedio: 0ms
+Duración de la prueba: 30 segundos
+
+=== Resultados de la Prueba ===
+Número de clientes: 10 publicadores y 10 suscriptores
+Mensajes enviados: 60
+Mensajes recibidos: 50
+Conexiones fallidas: 0
+Latencia promedio: 0ms
+Duración de la prueba: 30 segundos
